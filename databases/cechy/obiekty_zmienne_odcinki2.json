@@ -1,0 +1,534 @@
+{
+    "LC12": {
+        "type": "obrazy/nst/odc/grey_light/LC12.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LC12.png",
+            "obrazy/nst/odc/green/LC12.png",
+            "obrazy/nst/odc/amber_dark/LC12.png",
+            "obrazy/nst/odc/red/LC12.png",
+            "obrazy/nst/odc/grey_dark/LC12.png",
+            "obrazy/nst/odc/blue/LC12.png",
+            "obrazy/nst/odc/amber_light/LC12.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LC13": {
+        "type": "obrazy/nst/odc/grey_light/LC13.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LC13.png",
+            "obrazy/nst/odc/green/LC13.png",
+            "obrazy/nst/odc/amber_dark/LC13.png",
+            "obrazy/nst/odc/red/LC13.png",
+            "obrazy/nst/odc/grey_dark/LC13.png",
+            "obrazy/nst/odc/blue/LC13.png",
+            "obrazy/nst/odc/amber_light/LC13.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LC21": {
+        "type": "obrazy/nst/odc/grey_light/LC21.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LC21.png",
+            "obrazy/nst/odc/green/LC21.png",
+            "obrazy/nst/odc/amber_dark/LC21.png",
+            "obrazy/nst/odc/red/LC21.png",
+            "obrazy/nst/odc/grey_dark/LC21.png",
+            "obrazy/nst/odc/blue/LC21.png",
+            "obrazy/nst/odc/amber_light/LC21.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LC46": {
+        "type": "obrazy/nst/odc/green/LC46.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LC46.png",
+            "obrazy/nst/odc/green/LC46.png",
+            "obrazy/nst/odc/amber_dark/LC46.png",
+            "obrazy/nst/odc/red/LC46.png",
+            "obrazy/nst/odc/grey_dark/LC46.png",
+            "obrazy/nst/odc/blue/LC46.png",
+            "obrazy/nst/odc/amber_light/LC46.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LC68": {
+        "type": "obrazy/nst/odc/grey_light/LC68.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LC68.png",
+            "obrazy/nst/odc/green/LC68.png",
+            "obrazy/nst/odc/amber_dark/LC68.png",
+            "obrazy/nst/odc/red/LC68.png",
+            "obrazy/nst/odc/grey_dark/LC68.png",
+            "obrazy/nst/odc/blue/LC68.png",
+            "obrazy/nst/odc/amber_light/LC68.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LC245": {
+        "type": "obrazy/nst/odc/grey_light/LC245.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LC245.png",
+            "obrazy/nst/odc/green/LC245.png",
+            "obrazy/nst/odc/amber_dark/LC245.png",
+            "obrazy/nst/odc/red/LC245.png",
+            "obrazy/nst/odc/grey_dark/LC245.png",
+            "obrazy/nst/odc/blue/LC245.png",
+            "obrazy/nst/odc/amber_light/LC245.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LC454": {
+        "type": "obrazy/nst/odc/grey_light/LC454.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LC454.png",
+            "obrazy/nst/odc/green/LC454.png",
+            "obrazy/nst/odc/amber_dark/LC454.png",
+            "obrazy/nst/odc/red/LC454.png",
+            "obrazy/nst/odc/grey_dark/LC454.png",
+            "obrazy/nst/odc/blue/LC454.png",
+            "obrazy/nst/odc/amber_light/LC454.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LC810": {
+        "type": "obrazy/nst/odc/grey_light/LC810.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LC810.png",
+            "obrazy/nst/odc/green/LC810.png",
+            "obrazy/nst/odc/amber_dark/LC810.png",
+            "obrazy/nst/odc/red/LC810.png",
+            "obrazy/nst/odc/grey_dark/LC810.png",
+            "obrazy/nst/odc/blue/LC810.png",
+            "obrazy/nst/odc/amber_light/LC810.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LL10": {
+        "type": "obrazy/nst/odc/grey_light/LL10.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LL10.png",
+            "obrazy/nst/odc/green/LL10.png",
+            "obrazy/nst/odc/amber_dark/LL10.png",
+            "obrazy/nst/odc/red/LL10.png",
+            "obrazy/nst/odc/grey_dark/LL10.png",
+            "obrazy/nst/odc/blue/LL10.png",
+            "obrazy/nst/odc/amber_light/LL10.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LL45": {
+        "type": "obrazy/nst/odc/grey_light/LL45.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LL45.png",
+            "obrazy/nst/odc/green/LL45.png",
+            "obrazy/nst/odc/amber_dark/LL45.png",
+            "obrazy/nst/odc/red/LL45.png",
+            "obrazy/nst/odc/grey_dark/LL45.png",
+            "obrazy/nst/odc/blue/LL45.png",
+            "obrazy/nst/odc/amber_light/LL45.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "P104": {
+        "type": "obrazy/nst/odc/grey_light/P104.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/P104.png",
+            "obrazy/nst/odc/green/P104.png",
+            "obrazy/nst/odc/amber_dark/P104.png",
+            "obrazy/nst/odc/red/P104.png",
+            "obrazy/nst/odc/grey_dark/P104.png",
+            "obrazy/nst/odc/blue/P104.png",
+            "obrazy/nst/odc/amber_light/P104.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "PC21": {
+        "type": "obrazy/nst/odc/grey_light/PC21.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/PC21.png",
+            "obrazy/nst/odc/green/PC21.png",
+            "obrazy/nst/odc/amber_dark/PC21.png",
+            "obrazy/nst/odc/red/PC21.png",
+            "obrazy/nst/odc/grey_dark/PC21.png",
+            "obrazy/nst/odc/blue/PC21.png",
+            "obrazy/nst/odc/amber_light/PC21.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "PC31": {
+        "type": "obrazy/nst/odc/grey_light/PC31.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/PC31.png",
+            "obrazy/nst/odc/green/PC31.png",
+            "obrazy/nst/odc/amber_dark/PC31.png",
+            "obrazy/nst/odc/red/PC31.png",
+            "obrazy/nst/odc/grey_dark/PC31.png",
+            "obrazy/nst/odc/blue/PC31.png",
+            "obrazy/nst/odc/amber_light/PC31.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "PC42": {
+        "type": "obrazy/nst/odc/grey_light/PC42.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/PC42.png",
+            "obrazy/nst/odc/green/PC42.png",
+            "obrazy/nst/odc/amber_dark/PC42.png",
+            "obrazy/nst/odc/red/PC42.png",
+            "obrazy/nst/odc/grey_dark/PC42.png",
+            "obrazy/nst/odc/blue/PC42.png",
+            "obrazy/nst/odc/amber_light/PC42.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "PC64": {
+        "type": "obrazy/nst/odc/grey_light/PC64.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/PC64.png",
+            "obrazy/nst/odc/green/PC64.png",
+            "obrazy/nst/odc/amber_dark/PC64.png",
+            "obrazy/nst/odc/red/PC64.png",
+            "obrazy/nst/odc/grey_dark/PC64.png",
+            "obrazy/nst/odc/blue/PC64.png",
+            "obrazy/nst/odc/amber_light/PC64.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "PC86": {
+        "type": "obrazy/nst/odc/grey_light/PC86.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/PC86.png",
+            "obrazy/nst/odc/green/PC86.png",
+            "obrazy/nst/odc/amber_dark/PC86.png",
+            "obrazy/nst/odc/red/PC86.png",
+            "obrazy/nst/odc/grey_dark/PC86.png",
+            "obrazy/nst/odc/blue/PC86.png",
+            "obrazy/nst/odc/amber_light/PC86.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "PC104": {
+        "type": "obrazy/nst/odc/grey_light/PC104.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/PC104.png",
+            "obrazy/nst/odc/green/PC104.png",
+            "obrazy/nst/odc/amber_dark/PC104.png",
+            "obrazy/nst/odc/red/PC104.png",
+            "obrazy/nst/odc/grey_dark/PC104.png",
+            "obrazy/nst/odc/blue/PC104.png",
+            "obrazy/nst/odc/amber_light/PC104.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "PC108": {
+        "type": "obrazy/nst/odc/grey_light/PC108.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/PC108.png",
+            "obrazy/nst/odc/green/PC108.png",
+            "obrazy/nst/odc/amber_dark/PC108.png",
+            "obrazy/nst/odc/red/PC108.png",
+            "obrazy/nst/odc/grey_dark/PC108.png",
+            "obrazy/nst/odc/blue/PC108.png",
+            "obrazy/nst/odc/amber_light/PC108.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "CC1": {
+        "type": "obrazy/nst/odc/grey_light/CC1.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/CC1.png",
+            "obrazy/nst/odc/green/CC1.png",
+            "obrazy/nst/odc/amber_dark/CC1.png",
+            "obrazy/nst/odc/red/CC1.png",
+            "obrazy/nst/odc/grey_dark/CC1.png",
+            "obrazy/nst/odc/blue/CC1.png",
+            "obrazy/nst/odc/amber_light/CC1.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "CC2": {
+        "type": "obrazy/nst/odc/grey_light/CC2.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/CC2.png",
+            "obrazy/nst/odc/green/CC2.png",
+            "obrazy/nst/odc/amber_dark/CC2.png",
+            "obrazy/nst/odc/red/CC2.png",
+            "obrazy/nst/odc/grey_dark/CC2.png",
+            "obrazy/nst/odc/blue/CC2.png",
+            "obrazy/nst/odc/amber_light/CC2.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "CC3": {
+        "type": "obrazy/nst/odc/grey_light/CC3.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/CC3.png",
+            "obrazy/nst/odc/green/CC3.png",
+            "obrazy/nst/odc/amber_dark/CC3.png",
+            "obrazy/nst/odc/red/CC3.png",
+            "obrazy/nst/odc/grey_dark/CC3.png",
+            "obrazy/nst/odc/blue/CC3.png",
+            "obrazy/nst/odc/amber_light/CC3.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "CC4": {
+        "type": "obrazy/nst/odc/grey_light/CC4.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/CC4.png",
+            "obrazy/nst/odc/green/CC4.png",
+            "obrazy/nst/odc/amber_dark/CC4.png",
+            "obrazy/nst/odc/red/CC4.png",
+            "obrazy/nst/odc/grey_dark/CC4.png",
+            "obrazy/nst/odc/blue/CC4.png",
+            "obrazy/nst/odc/amber_light/CC4.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "CC6": {
+        "type": "obrazy/nst/odc/grey_light/CC6.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/CC6.png",
+            "obrazy/nst/odc/green/CC6.png",
+            "obrazy/nst/odc/amber_dark/CC6.png",
+            "obrazy/nst/odc/red/CC6.png",
+            "obrazy/nst/odc/grey_dark/CC6.png",
+            "obrazy/nst/odc/blue/CC6.png",
+            "obrazy/nst/odc/amber_light/CC6.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "CC8": {
+        "type": "obrazy/nst/odc/grey_light/CC8.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/CC8.png",
+            "obrazy/nst/odc/green/CC8.png",
+            "obrazy/nst/odc/amber_dark/CC8.png",
+            "obrazy/nst/odc/red/CC8.png",
+            "obrazy/nst/odc/grey_dark/CC8.png",
+            "obrazy/nst/odc/blue/CC8.png",
+            "obrazy/nst/odc/amber_light/CC8.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "CC10": {
+        "type": "obrazy/nst/odc/grey_light/CC10.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/CC10.png",
+            "obrazy/nst/odc/green/CC10.png",
+            "obrazy/nst/odc/amber_dark/CC10.png",
+            "obrazy/nst/odc/red/CC10.png",
+            "obrazy/nst/odc/grey_dark/CC10.png",
+            "obrazy/nst/odc/blue/CC10.png",
+            "obrazy/nst/odc/amber_light/CC10.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "CL1": {
+        "type": "obrazy/nst/odc/grey_light/CL1.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/CL1.png",
+            "obrazy/nst/odc/green/CL1.png",
+            "obrazy/nst/odc/amber_dark/CL1.png",
+            "obrazy/nst/odc/red/CL1.png",
+            "obrazy/nst/odc/grey_dark/CL1.png",
+            "obrazy/nst/odc/blue/CL1.png",
+            "obrazy/nst/odc/amber_light/CL1.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LC1": {
+        "type": "obrazy/nst/odc/grey_light/LC1.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LC1.png",
+            "obrazy/nst/odc/green/LC1.png",
+            "obrazy/nst/odc/amber_dark/LC1.png",
+            "obrazy/nst/odc/red/LC1.png",
+            "obrazy/nst/odc/grey_dark/LC1.png",
+            "obrazy/nst/odc/blue/LC1.png",
+            "obrazy/nst/odc/amber_light/LC1.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LC2": {
+        "type": "obrazy/nst/odc/grey_light/LC2.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LC2.png",
+            "obrazy/nst/odc/green/LC2.png",
+            "obrazy/nst/odc/amber_dark/LC2.png",
+            "obrazy/nst/odc/red/LC2.png",
+            "obrazy/nst/odc/grey_dark/LC2.png",
+            "obrazy/nst/odc/blue/LC2.png",
+            "obrazy/nst/odc/amber_light/LC2.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LL1": {
+        "type": "obrazy/nst/odc/grey_light/LL1.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LL1.png",
+            "obrazy/nst/odc/green/LL1.png",
+            "obrazy/nst/odc/amber_dark/LL1.png",
+            "obrazy/nst/odc/red/LL1.png",
+            "obrazy/nst/odc/grey_dark/LL1.png",
+            "obrazy/nst/odc/blue/LL1.png",
+            "obrazy/nst/odc/amber_light/LL1.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LL2": {
+        "type": "obrazy/nst/odc/grey_light/LL2.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LL2.png",
+            "obrazy/nst/odc/green/LL2.png",
+            "obrazy/nst/odc/amber_dark/LL2.png",
+            "obrazy/nst/odc/red/LL2.png",
+            "obrazy/nst/odc/grey_dark/LL2.png",
+            "obrazy/nst/odc/blue/LL2.png",
+            "obrazy/nst/odc/amber_light/LL2.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "LL4": {
+        "type": "obrazy/nst/odc/green/LL4.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/LL4.png",
+            "obrazy/nst/odc/green/LL4.png",
+            "obrazy/nst/odc/amber_dark/LL4.png",
+            "obrazy/nst/odc/red/LL4.png",
+            "obrazy/nst/odc/grey_dark/LL4.png",
+            "obrazy/nst/odc/blue/LL4.png",
+            "obrazy/nst/odc/amber_light/LL4.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "PC4": {
+        "type": "obrazy/nst/odc/grey_light/PC4.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/PC4.png",
+            "obrazy/nst/odc/green/PC4.png",
+            "obrazy/nst/odc/amber_dark/PC4.png",
+            "obrazy/nst/odc/red/PC4.png",
+            "obrazy/nst/odc/grey_dark/PC4.png",
+            "obrazy/nst/odc/blue/PC4.png",
+            "obrazy/nst/odc/amber_light/PC4.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "PP4": {
+        "type": "obrazy/nst/odc/grey_light/PP4.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/PP4.png",
+            "obrazy/nst/odc/green/PP4.png",
+            "obrazy/nst/odc/amber_dark/PP4.png",
+            "obrazy/nst/odc/red/PP4.png",
+            "obrazy/nst/odc/grey_dark/PP4.png",
+            "obrazy/nst/odc/blue/PP4.png",
+            "obrazy/nst/odc/amber_light/PP4.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "PP2": {
+        "type": "obrazy/nst/odc/grey_light/PP2.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/PP2.png",
+            "obrazy/nst/odc/green/PP2.png",
+            "obrazy/nst/odc/amber_dark/PP2.png",
+            "obrazy/nst/odc/red/PP2.png",
+            "obrazy/nst/odc/grey_dark/PP2.png",
+            "obrazy/nst/odc/blue/PP2.png",
+            "obrazy/nst/odc/amber_light/PP2.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "PP1": {
+        "type": "obrazy/nst/odc/grey_light/PP1.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/PP1.png",
+            "obrazy/nst/odc/green/PP1.png",
+            "obrazy/nst/odc/amber_dark/PP1.png",
+            "obrazy/nst/odc/red/PP1.png",
+            "obrazy/nst/odc/grey_dark/PP1.png",
+            "obrazy/nst/odc/blue/PP1.png",
+            "obrazy/nst/odc/amber_light/PP1.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "PC2": {
+        "type": "obrazy/nst/odc/grey_light/PC2.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/PC2.png",
+            "obrazy/nst/odc/green/PC2.png",
+            "obrazy/nst/odc/amber_dark/PC2.png",
+            "obrazy/nst/odc/red/PC2.png",
+            "obrazy/nst/odc/grey_dark/PC2.png",
+            "obrazy/nst/odc/blue/PC2.png",
+            "obrazy/nst/odc/amber_light/PC2.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "PC1": {
+        "type": "obrazy/nst/odc/grey_light/PC1.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/PC1.png",
+            "obrazy/nst/odc/green/PC1.png",
+            "obrazy/nst/odc/amber_dark/PC1.png",
+            "obrazy/nst/odc/red/PC1.png",
+            "obrazy/nst/odc/grey_dark/PC1.png",
+            "obrazy/nst/odc/blue/PC1.png",
+            "obrazy/nst/odc/amber_light/PC1.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    },
+    "CP1": {
+        "type": "obrazy/nst/odc/grey_light/CP1.png",
+        "possible_types": [
+            "obrazy/nst/odc/grey_light/CP1.png",
+            "obrazy/nst/odc/green/CP1.png",
+            "obrazy/nst/odc/amber_dark/CP1.png",
+            "obrazy/nst/odc/red/CP1.png",
+            "obrazy/nst/odc/grey_dark/CP1.png",
+            "obrazy/nst/odc/blue/CP1.png",
+            "obrazy/nst/odc/amber_light/CP1.png"
+        ],
+        "blinking": false,
+        "visibility": true
+    }
+}

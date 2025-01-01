@@ -1,0 +1,1 @@
+from nastawy_semaforow.czytaj_nastawy import nastawy

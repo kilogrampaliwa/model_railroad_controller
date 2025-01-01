@@ -1,0 +1,548 @@
+
+{
+    "p_A":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem A"
+    },
+    "p_B":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem B"
+    },
+    "p_C":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem C"
+    },
+    "p_D":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem D"
+    },
+    "p_G":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem G"
+    },
+    "p_H":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem H"
+    },
+    "p_I":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem I"
+    },
+    "p_J":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem J"
+    },
+    "p_K":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem K"
+    },
+    "p_L":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem L"
+    },
+    "p_R":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem R"
+    },
+    "p_S":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem S"
+    },
+    "p_T":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem T"
+    },
+    "p_U":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem U"
+    },
+    "p_V":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem V"
+    },
+    "p_W":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem W"
+    },
+    "p_Y":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem Y"
+    },
+    "p_Z":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk sem Z"
+    },
+    "p_LL1":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_LL1"
+    },
+    "p_LL2":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_LL2"
+    },
+    "p_LL3":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_LL3"
+    },
+    "p_LL4":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_LL4"
+    },
+    "p_PP1":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_PP1"
+    },
+    "p_PP2":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_PP2"
+    },
+    "p_LC1":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_LC1"
+    },
+    "p_LC2":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_LC2"
+    },
+    "p_LC3":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_LC3"
+    },
+    "p_LC4":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_LC4"
+    },
+    "p_LC6":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_LC6"
+    },
+    "p_LC8":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_LC8"
+    },
+    "p_PC1":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_PC1"
+    },
+    "p_PC2":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_PC2"
+    },
+    "p_PC3":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_PC3"
+    },
+    "p_PC4":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_PC4"
+    },
+    "p_PC6":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_PC6"
+    },
+    "p_PC8":{
+    "address" : "obrazy/nst/prz/blue.png",
+    "visibility": true,
+    "action": "przycisk tor p_PC8"
+    },
+    "pg_A":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem A"
+    },
+    "pg_B":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem B"
+    },
+    "pg_C":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem C"
+    },
+    "pg_D":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem D"
+    },
+    "pg_G":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem G"
+    },
+    "pg_H":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem H"
+    },
+    "pg_I":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem I"
+    },
+    "pg_J":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem J"
+    },
+    "pg_K":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem K"
+    },
+    "pg_L":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem L"
+    },
+    "pg_R":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem R"
+    },
+    "pg_S":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem S"
+    },
+    "pg_T":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem T"
+    },
+    "pg_U":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem U"
+    },
+    "pg_V":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem V"
+    },
+    "pg_W":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem W"
+    },
+    "pg_Y":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem Y"
+    },
+    "pg_Z":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop sem Z"
+    },
+    "pg_z1":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z1"
+    },
+    "pg_z2":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z2"
+    },
+    "pg_z3":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z3"
+    },
+    "pg_z4ab":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z4ab"
+    },
+    "pg_z4cd":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z4cd"
+    },
+    "pg_z9ab":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z9ab"
+    },
+    "pg_z9cd":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z9cd"
+    },
+    "pg_z10":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z10"
+    },
+    "pg_z11":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z11"
+    },
+    "pg_z15":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z15"
+    },
+    "pg_z5":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z5"
+    },
+    "pg_z24":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z24"
+    },
+    "pg_z16":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z16"
+    },
+    "pg_z17":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z17"
+    },
+    "pg_z18ab":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z18ab"
+    },
+    "pg_z18cd":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z18cd"
+    },
+    "pg_z19ab":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z19ab"
+    },
+    "pg_z19cd":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z19cd"
+    },
+    "pg_z25":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z25"
+    },
+    "pg_z26":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z26"
+    },
+    "pg_z27":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z27"
+    },
+    "pg_z7":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z7"
+    },
+    "pg_z12":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z12"
+    },
+    "pg_z28":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop zwr z28"
+    },
+    "pg_Tm1":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop tmn Tm1"
+    },
+    "pg_Tm41":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop tmn Tm41"
+    },
+    "pg_Tm4":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop tmn Tm4"
+    },
+    "pg_Tm10":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop tmn Tm10"
+    },
+    "pg_Tm11":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop tmn Tm11"
+    },
+    "pg_Tm12":{
+    "address" : "obrazy/nst/prz/Zmn.png",
+    "visibility": true,
+    "action": "g_pop tmn Tm12"
+    },
+    "p_Akc":{
+    "address" : "obrazy/nst/prz/Akc.png",
+    "visibility": true,
+    "action": "popup Akc"
+    },
+    "p_Anl":{
+    "address" : "obrazy/nst/prz/Anl.png",
+    "visibility": true,
+    "action": "popup Anl"
+    },
+    "p_NDr":{
+    "address" : "obrazy/nst/prz/NDr.png",
+    "visibility": true,
+    "action": "popup NDr"
+    },
+    "p_Mod":{
+    "address" : "obrazy/nst/prz/Mod.png",
+    "visibility": true,
+    "action": "popup Mod"
+    },
+    "p_Stp":{
+    "address" : "obrazy/nst/prz/Stp.png",
+    "visibility": true,
+    "action": "popup Stp"
+    },
+    "p_Usn":{
+    "address" : "obrazy/nst/prz/Usn.png",
+    "visibility": true,
+    "action": "popup Usn"
+    },
+    "p_Zak":{
+    "address" : "obrazy/nst/prz/Zak.png",
+    "visibility": true,
+    "action": "popup Zak"
+    },
+    "p_usn_A":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem A"
+    },
+    "p_usn_B":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem B"
+    },
+    "p_usn_C":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem C"
+    },
+    "p_usn_D":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem D"
+    },
+    "p_usn_G":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem G"
+    },
+    "p_usn_H":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem H"
+    },
+    "p_usn_I":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem I"
+    },
+    "p_usn_J":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem J"
+    },
+    "p_usn_K":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem K"
+    },
+    "p_usn_L":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem L"
+    },
+    "p_usn_R":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem R"
+    },
+    "p_usn_S":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem S"
+    },
+    "p_usn_T":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem T"
+    },
+    "p_usn_U":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem U"
+    },
+    "p_usn_V":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem V"
+    },
+    "p_usn_W":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem W"
+    },
+    "p_usn_Y":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem Y"
+    },
+    "p_usn_Z":{
+    "address" : "obrazy/nst/prz/red.png",
+    "visibility": true,
+    "action": "usn_przy sem Z"
+    }
+}
