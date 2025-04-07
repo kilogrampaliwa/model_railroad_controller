@@ -139,14 +139,42 @@ class actu:
         Saves encrypted states into JSON files for Arduino pins.
         """
         for x in self.list_ards:
+            print(f"NAME START --------------------------------- >>>> {x}")
             temp_dict = self.load_json(x, True)
             temp_chck = self.load_json(x, False)
 
-            for n in temp_dict.keys():
-                if n in self.ardu_pin_list:
-                    temp_dict[n] = self.raw_states[temp_chck[n][0]]
+            pins_chck = {k:v for k,v in temp_chck.items() if k not in ['strona', 'symb_pin']}
 
-            self.save_json(x, temp_dict)
+            for n in temp_dict.keys():
+                if n in self.ardu_pin_list and pins_chck[n][0] not in [0, '0']:
+                    try:
+                        for i,y in enumerate(self.raw_states[pins_chck[n][0]]):
+                            if y==None: self.raw_states[pins_chck[n][0]][i]=False
+                        temp_dict[n] = self.raw_states[pins_chck[n][0]]
+                    except:
+                        if   pins_chck[n][0] in ['z4ab','z4cd']:
+
+                            temp_dict[n] = self.__krzZwr('z4', self.raw_states)['z4ab']
+                            temp_dict[n] = self.__krzZwr('z4', self.raw_states)['z4cd']
+
+                        elif pins_chck[n][0] in  ['z9ab','z9cd']:
+
+                            temp_dict[n] = self.__krzZwr('z9', self.raw_states)['z9ab']
+                            temp_dict[n] = self.__krzZwr('z9', self.raw_states)['z9cd']
+
+                        elif pins_chck[n][0] in ['z18ab','z18cd']:
+
+                            temp_dict[n] = self.__krzZwr('z18', self.raw_states)['z18ab']
+                            temp_dict[n] = self.__krzZwr('z18', self.raw_states)['z18cd']
+
+                        elif pins_chck[n][0] in ['z19ab','z19cd']:
+
+                            temp_dict[n] = self.__krzZwr('z19', self.raw_states)['z19ab']
+                            temp_dict[n] = self.__krzZwr('z19', self.raw_states)['z19cd']
+
+            print(f"self.save_json(x, temp_dict) ... {temp_dict}")
+            print(f"NAME STOP --------------------------------- >>>> {x}")
+            self.save_json(x, self.__toBytes(temp_dict, pins_chck))
 
     def load_json(self, name, czy_plytki):
         with open(f"databases/arduino/{'plytki' if czy_plytki else 'obiekty'}/{name}.json", 'r') as file:
@@ -155,3 +183,64 @@ class actu:
     def save_json(self, name, data):
         with open(f"databases/arduino/plytki/{name}.json", 'w') as file:
             json.dump(data, file, indent=6)
+
+    def __krzZwr(self, nazwa, states):
+        zwr_dict = {}
+        if   str(states[nazwa]) == '0':
+            zwr_dict[f'{nazwa}ab'] = [True, False]
+            zwr_dict[f'{nazwa}cd'] = [True, False]
+        elif str(states[nazwa]) == '1':
+            zwr_dict[f'{nazwa}ab'] = [True, False]
+            zwr_dict[f'{nazwa}cd'] = [False, True]
+        elif str(states[nazwa]) == '2':
+            zwr_dict[f'{nazwa}ab'] = [False, True]
+            zwr_dict[f'{nazwa}cd'] = [False, True]
+        elif str(states[nazwa]) == '3':
+            zwr_dict[f'{nazwa}ab'] = [False, True]
+            zwr_dict[f'{nazwa}cd'] = [True, False]
+        return zwr_dict
+    
+    def __toBytes(self, tempDict, tempCheck):
+        outDict = {}
+        print(f"tempCheck : {tempCheck}")
+        for k, v in tempDict.items():
+            if k not in ['strona', 'symb_pin']:
+                try:
+                    if   tempCheck[k][1]== "B" :
+                        print(v)
+                        outDict[k] = int(v[0])
+                    elif tempCheck[k][1]== "Pd":
+                        print(v)
+                        outDict[k] = int(v[1])
+                    elif tempCheck[k][1]== "C" :
+                        print(v)
+                        outDict[k] = int(v[2])
+                    elif tempCheck[k][1]== "Pg":
+                        print(v)
+                        outDict[k] = int(v[3])
+                    elif tempCheck[k][1]== "Z" :
+                        print(v)
+                        outDict[k] = int(v[4])
+
+                    elif tempCheck[k][1]== "0" :
+                        outDict[k] = 0
+
+                    elif tempCheck[k][1]== "L" :
+                        print(v)
+                        outDict[k] = int(v[0])
+                    elif tempCheck[k][1]== "P" :
+                        print(v)
+                        outDict[k] = int(v[0])
+
+                    elif tempCheck[k][1]== "N" :
+                        print(v)
+                        outDict[k] = int(v[1])
+                except:
+                    if   v in [0, '0', False]:
+                        outDict[k] = 0
+                    elif v in [1, '1', True]:
+                        outDict[k] = 1
+
+        outDict['strona'] = tempDict['strona']
+        outDict['symb_pin'] = tempDict['symb_pin']
+        return outDict
